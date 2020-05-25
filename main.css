@@ -1,0 +1,111 @@
+*
+body{
+    margin: 0;
+    padding: 0;
+    font-family:  oswald, sans-serif;
+}
+.nav-link{
+    font-family: oswald, sans-serif;
+}
+.br{
+    background-color: rgb(1, 1, 56);
+    height: 150px;
+}
+
+.jumbotron{
+    margin-top: 0px;
+    width: 100%;
+    height: 100vh;
+
+}
+.header{
+    margin-left: 30px;
+    color: white;
+}
+.container-fluid .bt{
+    background-color: blue;
+}
+.parent-div{
+    height: 500px;
+}
+.center-div{
+    background-color: white;
+    margin-top: -8%;
+}
+.cover{
+    display: flex;
+}
+.content{
+    color: grey;
+}
+.dp{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.content h5{
+    margin-top: 40px;
+    margin-left: 70px;
+    display: flex;
+}
+.btn{
+    margin-left: 70px;
+    
+}
+.point{
+    margin-left: 70px;
+}
+.main{
+    display: flex;
+}
+.main .dp2{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.main-content h5{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.btn2{
+    margin-left: 70px;
+}
+.point2{
+    margin-left: 70px;
+}
+.main2{
+    display: flex;
+}
+.dp3{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.main-content2 h5{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.btn3{
+    margin-left: 70px;
+}
+.point3{
+    margin-left: 70px;
+}
+.br4{
+    background-color: blue;
+    color: white;
+    width: 70px;
+    margin-left: 1000px;
+    height: 25px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
